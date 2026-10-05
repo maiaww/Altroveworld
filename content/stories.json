@@ -100,7 +100,7 @@
     },
     {
       "order": 1,
-      "country": "Phillipines",
+      "country": "El nido to coron",
       "slug": "palawan",
       "date": "5 oct",
       "readTime": "5 min read",
@@ -126,6 +126,10 @@
         },
         {
           "src": "/assets/uploads/IMG_5146.jpeg",
+          "caption": ""
+        },
+        {
+          "src": "/assets/uploads/IMG_5150.jpeg",
           "caption": ""
         }
       ],
