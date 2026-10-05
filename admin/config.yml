@@ -14,7 +14,15 @@ media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
 
 site_url: https://altrovetravel.com
-
+media_libraries:
+  default:
+    config:
+      transformations:
+        raster_image:
+          format: webp
+          quality: 85
+          width: 2048
+          height: 2048
 collections:
   - name: content
     label: "Stories"
