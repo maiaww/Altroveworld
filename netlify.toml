@@ -1,0 +1,4 @@
+[build]
+  # Plain static site — no build step needed; publish the repository root.
+  command = "echo 'No build step required'"
+  publish = "."
